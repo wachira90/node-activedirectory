@@ -1,0 +1,9 @@
+{
+  "name": "activedirectory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "activedirectory": "^0.7.2"
+  }
+}
